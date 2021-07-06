@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ot1vqi');
-  src:  url('fonts/icomoon.eot?ot1vqi#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ot1vqi') format('truetype'),
-    url('fonts/icomoon.woff?ot1vqi') format('woff'),
-    url('fonts/icomoon.svg?ot1vqi#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?atijv8');
+  src:  url('fonts/icomoon.eot?atijv8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?atijv8') format('truetype'),
+    url('fonts/icomoon.woff?atijv8') format('woff'),
+    url('fonts/icomoon.svg?atijv8#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,48 +25,60 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-clear:before {
-  content: "\e909";
+.icon-cut0:before {
+  content: "\e900";
+}
+.icon-cut3:before {
+  content: "\e901";
+}
+.icon-emoticon:before {
+  content: "\e902";
+}
+.icon-cut1:before {
+  content: "\e903";
+}
+.icon-cut2:before {
+  content: "\e904";
+}
+.icon-horse:before {
+  content: "\e905";
+}
+.icon-cow:before {
+  content: "\e906";
 }
 .icon-close:before {
+  content: "\e907";
+}
+.icon-up:before {
+  content: "\e908";
+}
+.icon-linkedin:before {
   content: "\e909";
 }
 .icon-menu:before {
-  content: "\e90c";
+  content: "\e90a";
+}
+.icon-youtube:before {
+  content: "\e90b";
 }
 .icon-facebook:before {
+  content: "\e90c";
+}
+.icon-instagram:before {
   content: "\e90d";
 }
 .icon-phone:before {
-  content: "\e903";
-}
-.icon-instagram:before {
-  content: "\e904";
-}
-.icon-map-pin:before {
-  content: "\e905";
+  content: "\e90e";
 }
 .icon-mail:before {
-  content: "\e906";
+  content: "\e90f";
 }
-.icon-youtube:before {
-  content: "\e907";
-}
-.icon-whatsapp:before {
-  content: "\e908";
-}
-.icon-Vector-7:before {
-  content: "\e90a";
-}
-.icon-happycow:before {
-  content: "\e900";
-}
-.icon-strategy:before {
-  content: "\e901";
+.icon-map:before {
+  content: "\e910";
 }
 .icon-paw:before {
-  content: "\e902";
+  content: "\e911";
 }
-.icon-linkedin:before {
-  content: "\e90b";
+.icon-whatsapp:before {
+  content: "\e912";
 }
